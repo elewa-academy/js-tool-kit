@@ -12,7 +12,7 @@ These tools are designed to highlight one particular skill or feature of program
 * [Online Node.js Environment](#replit)
 
 ### Development Sandboxes:
-* [Khan: HTML, CSS & JS](#khan-static)
+* [Khan: HTML, CSS & JS](#khan-html-css-js)
 * [Glitch](#glitch)
 
 ___
@@ -131,7 +131,7 @@ Learn how JS, HTML & CSS integrate to make static websites.   This is a great pl
 
 ___
 
-## [Glitch.com](https://glitch.com)
+## [Glitch](https://glitch.com)
 
 Glitch is a powerful online sandbox that allows you to easily build and deploy simple websites with HTML, CSS & JS.  Of all the sandboxes out there, Glitch will prepare you the most for your transition to the full development environment (Visual Studio, Chrome Dev Console, Terminal, GitHub).
 
