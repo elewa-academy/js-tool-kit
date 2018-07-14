@@ -6,7 +6,7 @@ These tools are designed to highlight one particular skill or feature of program
 * [Variables & Execution Context](#pythontutor)
 * [Syntax Structures & Logic](#parsonizer)
 * [How to describe this one?](#khan-javascript)
-* [Logic & Control Flow](#bogdan-lyashenko)
+* [Flowchart Generators](#flowchart-generators)
 * [Live Testing](#tdd-bin)
 * [Asynchronous Behavior](#loupe)
 * [Online Node.js Environment](#replit)
@@ -74,7 +74,7 @@ ___
 
 ## [Khan: JavaScript](https://www.khanacademy.org/computer-programming/new/pjs)
 
-Khan Academy has created an outstanding visual-interactive coding environment that will help you build an understanding of syntax, code behavior, and algorithms.  
+Khan Academy has created an outstanding visual-interactive coding environment that will help you build an understanding of syntax, code behavior, and algorithms.  You can go straight to the coding environment above or check out [their introduction](https://www.khanacademy.org/computing/computer-programming/programming) or their [hour of code](https://www.khanacademy.org/computing/hour-of-code/hour-of-drawing-code/v/welcome-hour-of-code) first.
 
 Try it out for yourself, a picture ...
 
@@ -82,11 +82,15 @@ Try it out for yourself, a picture ...
 
 ___
 
-## [Bogdan Lyashenko](https://bogdan-lyashenko.github.io/js-code-to-svg-flowchart/docs/live-editor/index.html)
+## Flowchart Generators
 
-This live editing environment converts your code into a diagram that illustrates control flow.  It will help you translate between strategy and code by making your code's behavior visually clear.  You can also export these diagrams to include in your notes or challenge write-ups.
+* [Bogdon Lyashenko](https://bogdan-lyashenko.github.io/js-code-to-svg-flowchart/docs/live-editor/index.html) - live, online flowchart generator
+* [Code 2 Flow](https://code2flow.com/app) - live, online flowchart generator
+* [Flow Maker](https://marketplace.visualstudio.com/items?itemName=speks.flowmaker) - Visual Studio plugin
 
-[Visual Studio](./pro-tools.md) has a plugin that lets you convert your code directly to SVG flow charts.
+These live editing environments converts your code into a diagram that illustrates control flow.  It will help you translate between strategy and code by making your code's behavior visually clear.  You can also export these diagrams to include in your notes or challenge write-ups.
+
+
 
 [TOP](#learning-environments)
 
