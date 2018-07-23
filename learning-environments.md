@@ -5,7 +5,7 @@ These tools are designed to highlight one particular skill or feature of program
 ### JavaScript Only:
 * [Variables & Execution Context](#pythontutor)
 * [Syntax Structures & Logic](#parsonizer)
-* [How to describe this one?](#khan-javascript)
+* [Chrome DevTools](#chrome-devtools)  
 * [Flowchart Generators](#flowchart-generators)
 * [Live Testing](#tdd-bin)
 * [Asynchronous Behavior](#loupe)
@@ -59,6 +59,18 @@ _Additional Resources:_
 
 ___
 
+## [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools/javascript/)
+
+After mastering PythonTutor and being able to consistenly draw predictive diagrams, it's time to move on to Chrome Developer Console.  This tool allows you to track everything from PythonTutor and then some.  
+
+It's UI isn't as beginner friendly PyTut, it does require that you have a pretty good understanding of how the JS notional machine works.  So as you move over to DevTools, keep diagramming!  And don't hesitate to run it side-by-side with PyTut.
+
+[TOP](#learning-environments)
+
+___
+
+___
+
 ## [Replit](https://repl.it)
 
 There are many JS runtime environments and not each one treats JS exactly the same way. Node.js is one of the most important JS runtimes and it [behaves differently](http://voidcanvas.com/node-vs-browsers/) from Browser runtime environments.
@@ -69,8 +81,8 @@ Check out Replit to explore the Node runtime without having to install anything.
 
 [TOP](#learning-environments)
 
-
 ___
+
 
 ## [Parsonizer](https://elewa-academy.github.io/parsons/)
 
