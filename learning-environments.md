@@ -59,6 +59,19 @@ _Additional Resources:_
 
 ___
 
+## [Replit](https://repl.it)
+
+There are many JS runtime environments and not each one treats JS exactly the same way. Node.js is one of the most important JS runtimes and it [behaves differently](http://voidcanvas.com/node-vs-browsers/) from Browser runtime environments.
+
+Check out Replit to explore the Node runtime without having to install anything.
+
+
+
+[TOP](#learning-environments)
+
+
+___
+
 ## [Parsonizer](https://elewa-academy.github.io/parsons/)
 
 With parsons problems you will be presented with a randomly organized set of lines of code.  Your task is simply to place them in order.  But it's not always as easy as it sounds!  Beware of indenting (code style) and extra lines.
@@ -67,16 +80,6 @@ When you find a particularly interesting example of JavaScript syntax, design pa
 
 Or create your own problems and challenge your friends!  Parsons problems are also a great way to practice syntax, logical strategies, and programming design patterns. 
 
-
-[TOP](#learning-environments)
-
-___
-
-## [Khan: JavaScript](https://www.khanacademy.org/computer-programming/new/pjs)
-
-Khan Academy has created an outstanding visual-interactive coding environment that will help you build an understanding of syntax, code behavior, and algorithms.  You can go straight to the coding environment above or check out [their introduction](https://www.khanacademy.org/computing/computer-programming/programming) or their [hour of code](https://www.khanacademy.org/computing/hour-of-code/hour-of-drawing-code/v/welcome-hour-of-code) first.
-
-Try it out for yourself, a picture ...
 
 [TOP](#learning-environments)
 
@@ -114,17 +117,6 @@ JavaScript's execution environment is pretty confusing, and very different from 
 
 ___
 
-## [Replit](https://repl.it)
-
-There are many JS runtime environments and not each one treats JS exactly the same way. Node.js is one of the most important JS runtimes and it [behaves differently](http://voidcanvas.com/node-vs-browsers/) from Browser runtime environments.
-
-Check out Replit to explore the Node runtime without having to install anything.
-
-
-
-[TOP](#learning-environments)
-
-___
 
 
 ## [Khan: HTML, CSS & JS](https://www.khanacademy.org/computer-programming/new/webpage)
