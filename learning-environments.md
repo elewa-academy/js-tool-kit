@@ -39,7 +39,6 @@ __Object Types__:
 * functions, objects, arrays, ...
 
 __Frames__: 
-* called Execution Contexts outside of PyTut
 * a new one is created each time a function is executed
 * and closes when that function returns
 * contain their own variables
